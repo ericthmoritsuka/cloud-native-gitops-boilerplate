@@ -1,3 +1,8 @@
+enabled: false
+
+database:
+    deletionProtection: false
+
 search:
     opensearch:
         instanceCount: 2
